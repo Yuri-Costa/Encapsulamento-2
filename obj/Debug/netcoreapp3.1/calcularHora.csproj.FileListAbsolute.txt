@@ -1,0 +1,13 @@
+C:\Users\dev\Desktop\calcularHora\bin\Debug\netcoreapp3.1\calcularHora.exe
+C:\Users\dev\Desktop\calcularHora\bin\Debug\netcoreapp3.1\calcularHora.deps.json
+C:\Users\dev\Desktop\calcularHora\bin\Debug\netcoreapp3.1\calcularHora.runtimeconfig.json
+C:\Users\dev\Desktop\calcularHora\bin\Debug\netcoreapp3.1\calcularHora.runtimeconfig.dev.json
+C:\Users\dev\Desktop\calcularHora\bin\Debug\netcoreapp3.1\calcularHora.dll
+C:\Users\dev\Desktop\calcularHora\bin\Debug\netcoreapp3.1\calcularHora.pdb
+C:\Users\dev\Desktop\calcularHora\obj\Debug\netcoreapp3.1\calcularHora.csprojAssemblyReference.cache
+C:\Users\dev\Desktop\calcularHora\obj\Debug\netcoreapp3.1\calcularHora.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\calcularHora\obj\Debug\netcoreapp3.1\calcularHora.AssemblyInfo.cs
+C:\Users\dev\Desktop\calcularHora\obj\Debug\netcoreapp3.1\calcularHora.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\calcularHora\obj\Debug\netcoreapp3.1\calcularHora.dll
+C:\Users\dev\Desktop\calcularHora\obj\Debug\netcoreapp3.1\calcularHora.pdb
+C:\Users\dev\Desktop\calcularHora\obj\Debug\netcoreapp3.1\calcularHora.genruntimeconfig.cache
